@@ -24,12 +24,15 @@ izveidotos CV kā arī tos rediģēt un dzēst.
  - ✅  Composer
  - ✅  Laravel 9
  - ✅  Node.js
+ - ✅  MySql (var izmantot arī citu datubāzi)
+ 
  ````
 ---
 
 [Laravel instalācija](https://laravel.com/docs/9.x/installation#getting-started-on-macos) <br>
 [Node instalācija](https://nodejs.org/en/)<br>
 [Composer instalācija](https://getcomposer.org)<br>
+[MySQL instalācija](https://www.mysql.com/downloads/)<br>
 
 ---
 
@@ -48,9 +51,12 @@ izveidotos CV kā arī tos rediģēt un dzēst.
   <img width="300"src="https://github.com/LianaDace/cv-project/blob/main/env.png">
 </p>
 
+
 * Jāievada datubāzes nosaukums (DB_DATABASE) <br>
 * Jāievada lietotāja vārds (DB_USERNAME)<br>
 * Jāievada lietotāja parole (DB_PASSWORD) <br>
+
+❗️ Gadijumā, ka esiet izvēlējušies neizmantot MySQL veiciet attiecīgās izmaiņas pie DB_CONNECTION
 
 <p> Komandrindā jāievada komanda </p>
 
