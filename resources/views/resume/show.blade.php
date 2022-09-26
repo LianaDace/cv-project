@@ -12,7 +12,7 @@
         <div>
             <x-slot name="header">
                 <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                    {{ __('Your Resume') }}
+                    {{ __('Mans CV') }}
                     <x-primary-button class="ml-3 space-x-1.5">
                         <a href="/download/{{$resume->id}}">
                             {{ __('Saglabāt kā PDF') }}
