@@ -5,7 +5,7 @@
     <div>
         <x-slot name="header">
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                {{ __('Your Resume') }}
+                {{ __('Mans CV') }}
             </h2>
         </x-slot>
         </script>

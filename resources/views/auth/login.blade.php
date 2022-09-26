@@ -62,7 +62,7 @@
                         <x-auth-card>
                             <x-slot name="logo">
                                 <div class="flex justify-center">
-                                    <p class="font-semi-bold text-2xl">Ienāc, lai uztaisītu CV!</p>
+                                    <p class="font-semi-bold text-2xl">Ienāc, lai izveidotu CV!</p>
                                 </div>
                             </x-slot>
 

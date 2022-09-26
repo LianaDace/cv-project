@@ -9,7 +9,7 @@
 <div>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Your Resume') }}
+            {{ __('Mans CV') }}
         </h2>
     </x-slot>
 
@@ -20,9 +20,9 @@
             <thead class="bg-gray-800 text-white">
             <tr>
                 <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">ID</th>
-                <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">Name</th>
-                <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Date Created</th>
-                <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Actions</th>
+                <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">Vārds</th>
+                <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Pievienošanas datums</th>
+                <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Darības</th>
             </tr>
             </thead>
             <tbody class="text-gray-700">
