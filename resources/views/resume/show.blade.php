@@ -15,7 +15,7 @@
                     {{ __('Your Resume') }}
                     <x-primary-button class="ml-3 space-x-1.5">
                         <a href="/download/{{$resume->id}}">
-                            {{ __('DOWNLOAD AS PDF') }}
+                            {{ __('Saglabāt kā PDF') }}
                         </a>
                     </x-primary-button>
                 </h2>
