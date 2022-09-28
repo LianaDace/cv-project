@@ -9,7 +9,7 @@ class Resume extends Model
 {
     use HasFactory;
 
-    protected $table = 'Resume';
+    protected $table = 'resume';
 
     protected $fillable = [
         'user_id',
