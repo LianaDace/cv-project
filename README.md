@@ -23,7 +23,7 @@ izveidotos CV kā arī tos rediģēt un dzēst.
  - ✅  PHP 8 ⬆️
  - ✅  Composer
  - ✅  Laravel 9
- - ✅  Node.js
+ - ✅  Node.js (v16 ⬆️)
  - ✅  MySql (var izmantot arī citu datubāzi)
  
  ````
@@ -42,7 +42,16 @@ izveidotos CV kā arī tos rediģēt un dzēst.
 
 * composer update --no-dev --prefer-dist <br>
 
+* npm install
+
 * npm run dev
+
+````
+Ja rodas problēma ar npm iesaku pārbaudīt Node versiju, kā arī projektā palaist komandas:
+ * npm run-script 
+ 
+ * npm run dev
+````
 
 ---
 ### .env failā jāveic izmaiņas 
